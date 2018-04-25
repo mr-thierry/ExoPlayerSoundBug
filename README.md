@@ -15,3 +15,5 @@ I was able to replicate the bug on a Nexus 6P running Android 8.1. And also on t
 
 To simulate receiving a call on my device, I used an online VoIP (https://www.poptox.com/). 
 On the emulator, I used the built-in call function.
+
+See "2018_04_25_09_01_14.mp4" for a video that shows the issue. 
